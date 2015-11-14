@@ -116,4 +116,3 @@ captions = get_captions(html)
 hashtags = []
 for i in range(len(captions)):
    hashtags.append(get_hashtags(captions[i]))
-#print hashtags
