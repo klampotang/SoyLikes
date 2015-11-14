@@ -1,2 +1,2 @@
 # SoyLikes
-Instagram Link Analyzer using Microsoft Azure
+Instagram Photo Analyzer using Microsoft Azure
